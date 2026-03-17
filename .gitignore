@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+# IntelliJ files
+.idea
+.DS_Store
+
 # Log file
 *.log
 
